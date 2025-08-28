@@ -50,11 +50,14 @@ It uses basic concepts of **OOP, ArrayList, and Scanner input** in Java.
 6. Exit
 Enter your choice:
 ```
----
-### 🎥 Demo Video
-[▶️ Watch the demo]([videos/demo.mp4](https://drive.google.com/file/d/1m3y7pg7q9SOa27ZtqSQwI8eU4adgvAfY/view?usp=sharing))
+## 🎥 Demo
+
+
+👉 [Watch the Demo](https://drive.google.com/file/d/1m3y7pg7q9SOa27ZtqSQwI8eU4adgvAfY/view?usp=sharing)
 
 ---
+
+
 
 ### 🔹 Example Run
 
